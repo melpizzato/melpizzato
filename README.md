@@ -5,6 +5,7 @@
 - ⚡ Fun fact: I don't like coffee, but I do love cats 😸
 
 [![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=melpizzato&show_icons=true&theme=tokyonight)](https://github.com/melpizzato/github-readme-stats)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melpizzato&theme=tokyonight&layout=compact)](https://github.com/melpizzato/github-readme-stats)
 
 <div style="display: inline_block"><br>
